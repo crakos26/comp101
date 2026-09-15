@@ -7,5 +7,5 @@
 
 -----------------------
 <i>original from repo comp101 of instructor</i>
-https://github.com/Hamilton-at-CapU/comp101
+https://github.com/Hamilton-at-CapU/comp101 <br>
 @Hamilton-at-CapU
