@@ -6,5 +6,5 @@
 <br>
 
 -----------------------
-##original from repo comp101 of instructor 
+<i>original from repo comp101 of instructor</i>
 https://github.com/Hamilton-at-CapU/comp101
