@@ -1,1 +1,17 @@
 
+computer #1
+Computer Type: MacBook Air
+CPU: Apple M1
+Memory: 8 GB
+OS: macOS Tahoe 26.0.1 
+HD: 245,11
+Display Resolution: 2560 × 1600
+
+computer #2
+Computer Type: desktop computer
+CPU: AMD Ryzen 5 7600X 4.7 GHz 6-Core Processor
+GPU: Gigabyte WINDFORCE OC GeForce RTX 4060 8 GB
+Memory: 2 x 16 GB  DDR5-6000 CL30 
+OS: 
+HD: 245,11
+Display Resolution: *used mainly as remote computer so display vary*
