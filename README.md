@@ -1,4 +1,7 @@
 # comp101
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=crakos26&label=Visiteurs&color=39FF14&style=flat" alt="Compteur de visites"/>
+</p>
 <h1>this repos is a educational repos </h1> 
 <p>comp 101, is a repos created within the education class comp 101 from Capu in fall2026 </p>
 <br>
