@@ -11,7 +11,8 @@ Computer Type: Desktop Computer (home built)
 CPU: AMD Ryzen 5 7600X 4.7 GHz 6-Core Processor
 GPU: Gigabyte WINDFORCE OC GeForce RTX 4060 8 GB
 Memory: 2 x 16 GB  DDR5-6000 CL30 
-OS: custom windows 
-HD: 2 TB + 2 TB = 4 TB
+OS: windows 11  
+PLAYBACK OS: Revi os 11 25.10
+HD: 2 TB + 2 TB = 3.68B (usable)
 Display Resolution: *used mainly as remote computer so display vary*
 
