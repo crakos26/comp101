@@ -20,3 +20,6 @@ comp101
 <i>original from repo comp101 of instructor</i>
 https://github.com/Hamilton-at-CapU/comp101 <br>
 @Hamilton-at-CapU
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
