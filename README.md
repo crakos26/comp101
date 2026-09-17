@@ -7,6 +7,15 @@
 <br>
 <b>Main branch is the one being submitted . Dev/worspace is the one where homework is done before being push and published for review</b>
 <br>
+
+## Project Structure
+
+```
+comp101
+├── lab2/
+│   └── hardware_specs.txt         # detailed hardware info
+└── README.md
+```
 <h2>Info</h2>
 <i>original from repo comp101 of instructor</i>
 https://github.com/Hamilton-at-CapU/comp101 <br>
