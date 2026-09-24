@@ -17,7 +17,7 @@ comp101
 ├── lab2/
 │   └── hardware_specs.txt         # detailed hardware info
 ├── lab3/
-│   └── index.html                 # webpage for the 3rd lab
+│   └── lab3.html                 # webpage for the 3rd lab
 └── README.md
 ```
 > [!NOTE]
